@@ -1,0 +1,15 @@
+# Downloaded ASR models (~200MB+)
+models/
+
+# PyInstaller
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Local logs / temp
+*.log
+exe_out.txt
+exe_err.txt
+.DS_Store
+Thumbs.db
